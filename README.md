@@ -16,13 +16,13 @@ Developed during a 4-Day Automation Bootcamp guided by IIT Mandi Professors.
 
 ### Hardware Prototype
 
-![Prototype](prototype_demo_images-gifs/prototype.jpg)
+![Prototype](prototype.jpg)
 
 ---
 
 ### Working Demonstration
 
-![Demo](prototype_demo_images-gifs/demo.gif)
+<video src="demo.mp4" width="100%" controls muted></video>
 
 ---
 
